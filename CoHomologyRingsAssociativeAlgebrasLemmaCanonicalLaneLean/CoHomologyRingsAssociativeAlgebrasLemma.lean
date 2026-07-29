@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CoHomologyRingsAssociativeAlgebrasLemma
+
+end CoHomologyRingsAssociativeAlgebrasLemma
+end HautevilleHouse
